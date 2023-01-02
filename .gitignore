@@ -25,4 +25,4 @@
 
 --script : 
 
-loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/WSRvvv/uuu/main/.gitignore"))()
+loadstring(game:HttpGetAsync("https://raw.githubusercontent.com/nonstoppop0000/www/main/erty"))()
